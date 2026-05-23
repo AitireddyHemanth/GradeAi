@@ -196,9 +196,9 @@ Planned future enhancements:
 
 ## 👨‍💻 Author
 
-**Nagireddi Abhinay**  
-Information Technology Student  
-Full-Stack Developer  
+**Aitireddy Hemanth**  
+Cybersecurity Student  
+Full-Stack Developer 
 
 ---
 
